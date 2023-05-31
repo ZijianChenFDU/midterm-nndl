@@ -1,0 +1,936 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 1028.355712890625 399.9925842285156"
+   version="1.1"
+   id="svg1907"
+   sodipodi:docname="test_loss.svg"
+   inkscape:export-filename="test_loss.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1911" />
+  <sodipodi:namedview
+     id="namedview1909"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.59001094"
+     inkscape:cx="144.91257"
+     inkscape:cy="200.84373"
+     inkscape:window-width="1536"
+     inkscape:window-height="890"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1907" />
+  <g
+     id="g1905">
+    <g
+       id="g1903">
+      <g
+         id="g1713">
+        <g
+           id="g1711">
+          <g
+             id="g1681">
+            <line
+               x1="51.5625"
+               y1="364.993"
+               x2="46.5625"
+               y2="364.993"
+               style="visibility: inherit;"
+               fill="rgb(0, 0, 0)"
+               stroke="rgb(204, 204, 204)"
+               stroke-width="1px"
+               id="line1657" />
+            <line
+               x1="51.5625"
+               y1="334.5769166666666"
+               x2="46.5625"
+               y2="334.5769166666666"
+               style="visibility: inherit;"
+               fill="rgb(0, 0, 0)"
+               stroke="rgb(204, 204, 204)"
+               stroke-width="1px"
+               id="line1659" />
+            <line
+               x1="51.5625"
+               y1="304.1608333333334"
+               x2="46.5625"
+               y2="304.1608333333334"
+               style="visibility: inherit;"
+               fill="rgb(0, 0, 0)"
+               stroke="rgb(204, 204, 204)"
+               stroke-width="1px"
+               id="line1661" />
+            <line
+               x1="51.5625"
+               y1="273.74475"
+               x2="46.5625"
+               y2="273.74475"
+               style="visibility: inherit;"
+               fill="rgb(0, 0, 0)"
+               stroke="rgb(204, 204, 204)"
+               stroke-width="1px"
+               id="line1663" />
+            <line
+               x1="51.5625"
+               y1="243.3286666666667"
+               x2="46.5625"
+               y2="243.3286666666667"
+               style="visibility: inherit;"
+               fill="rgb(0, 0, 0)"
+               stroke="rgb(204, 204, 204)"
+               stroke-width="1px"
+               id="line1665" />
+            <line
+               x1="51.5625"
+               y1="212.91258333333332"
+               x2="46.5625"
+               y2="212.91258333333332"
+               style="visibility: inherit;"
+               fill="rgb(0, 0, 0)"
+               stroke="rgb(204, 204, 204)"
+               stroke-width="1px"
+               id="line1667" />
+            <line
+               x1="51.5625"
+               y1="182.4964999999999"
+               x2="46.5625"
+               y2="182.4964999999999"
+               style="visibility: inherit;"
+               fill="rgb(0, 0, 0)"
+               stroke="rgb(204, 204, 204)"
+               stroke-width="1px"
+               id="line1669" />
+            <line
+               x1="51.5625"
+               y1="152.08041666666654"
+               x2="46.5625"
+               y2="152.08041666666654"
+               style="visibility: inherit;"
+               fill="rgb(0, 0, 0)"
+               stroke="rgb(204, 204, 204)"
+               stroke-width="1px"
+               id="line1671" />
+            <line
+               x1="51.5625"
+               y1="121.66433333333315"
+               x2="46.5625"
+               y2="121.66433333333315"
+               style="visibility: inherit;"
+               fill="rgb(0, 0, 0)"
+               stroke="rgb(204, 204, 204)"
+               stroke-width="1px"
+               id="line1673" />
+            <line
+               x1="51.5625"
+               y1="91.2482499999998"
+               x2="46.5625"
+               y2="91.2482499999998"
+               style="visibility: inherit;"
+               fill="rgb(0, 0, 0)"
+               stroke="rgb(204, 204, 204)"
+               stroke-width="1px"
+               id="line1675" />
+            <line
+               x1="51.5625"
+               y1="60.83216666666641"
+               x2="46.5625"
+               y2="60.83216666666641"
+               style="visibility: inherit;"
+               fill="rgb(0, 0, 0)"
+               stroke="rgb(204, 204, 204)"
+               stroke-width="1px"
+               id="line1677" />
+            <line
+               x1="51.5625"
+               y1="30.416083333333024"
+               x2="46.5625"
+               y2="30.416083333333024"
+               style="visibility: inherit;"
+               fill="rgb(0, 0, 0)"
+               stroke="rgb(204, 204, 204)"
+               stroke-width="1px"
+               id="line1679" />
+          </g>
+          <g
+             transform="translate(41.5625, 0)"
+             id="g1707">
+            <text
+               x="0"
+               y="364.993"
+               dx="0em"
+               dy="0.3em"
+               style="text-anchor: end; visibility: hidden; font-family: Roboto, sans-serif; font-size: 12px; font-weight: 200;"
+               fill="rgb(33, 33, 33)"
+               stroke="none"
+               stroke-width="1px"
+               id="text1683">0.9</text>
+            <text
+               x="0"
+               y="334.5769166666666"
+               dx="0em"
+               dy="0.3em"
+               style="text-anchor: end; visibility: inherit; font-family: Roboto, sans-serif; font-size: 12px; font-weight: 200;"
+               fill="rgb(33, 33, 33)"
+               stroke="none"
+               stroke-width="1px"
+               id="text1685">0.92</text>
+            <text
+               x="0"
+               y="304.1608333333334"
+               dx="0em"
+               dy="0.3em"
+               style="text-anchor: end; visibility: inherit; font-family: Roboto, sans-serif; font-size: 12px; font-weight: 200;"
+               fill="rgb(33, 33, 33)"
+               stroke="none"
+               stroke-width="1px"
+               id="text1687">0.94</text>
+            <text
+               x="0"
+               y="273.74475"
+               dx="0em"
+               dy="0.3em"
+               style="text-anchor: end; visibility: inherit; font-family: Roboto, sans-serif; font-size: 12px; font-weight: 200;"
+               fill="rgb(33, 33, 33)"
+               stroke="none"
+               stroke-width="1px"
+               id="text1689">0.96</text>
+            <text
+               x="0"
+               y="243.3286666666667"
+               dx="0em"
+               dy="0.3em"
+               style="text-anchor: end; visibility: inherit; font-family: Roboto, sans-serif; font-size: 12px; font-weight: 200;"
+               fill="rgb(33, 33, 33)"
+               stroke="none"
+               stroke-width="1px"
+               id="text1691">0.98</text>
+            <text
+               x="0"
+               y="212.91258333333332"
+               dx="0em"
+               dy="0.3em"
+               style="text-anchor: end; visibility: inherit; font-family: Roboto, sans-serif; font-size: 12px; font-weight: 200;"
+               fill="rgb(33, 33, 33)"
+               stroke="none"
+               stroke-width="1px"
+               id="text1693">1</text>
+            <text
+               x="0"
+               y="182.4964999999999"
+               dx="0em"
+               dy="0.3em"
+               style="text-anchor: end; visibility: inherit; font-family: Roboto, sans-serif; font-size: 12px; font-weight: 200;"
+               fill="rgb(33, 33, 33)"
+               stroke="none"
+               stroke-width="1px"
+               id="text1695">1.02</text>
+            <text
+               x="0"
+               y="152.08041666666654"
+               dx="0em"
+               dy="0.3em"
+               style="text-anchor: end; visibility: inherit; font-family: Roboto, sans-serif; font-size: 12px; font-weight: 200;"
+               fill="rgb(33, 33, 33)"
+               stroke="none"
+               stroke-width="1px"
+               id="text1697">1.04</text>
+            <text
+               x="0"
+               y="121.66433333333315"
+               dx="0em"
+               dy="0.3em"
+               style="text-anchor: end; visibility: inherit; font-family: Roboto, sans-serif; font-size: 12px; font-weight: 200;"
+               fill="rgb(33, 33, 33)"
+               stroke="none"
+               stroke-width="1px"
+               id="text1699">1.06</text>
+            <text
+               x="0"
+               y="91.2482499999998"
+               dx="0em"
+               dy="0.3em"
+               style="text-anchor: end; visibility: inherit; font-family: Roboto, sans-serif; font-size: 12px; font-weight: 200;"
+               fill="rgb(33, 33, 33)"
+               stroke="none"
+               stroke-width="1px"
+               id="text1701">1.08</text>
+            <text
+               x="0"
+               y="60.83216666666641"
+               dx="0em"
+               dy="0.3em"
+               style="text-anchor: end; visibility: inherit; font-family: Roboto, sans-serif; font-size: 12px; font-weight: 200;"
+               fill="rgb(33, 33, 33)"
+               stroke="none"
+               stroke-width="1px"
+               id="text1703">1.1</text>
+            <text
+               x="0"
+               y="30.416083333333024"
+               dx="0em"
+               dy="0.3em"
+               style="text-anchor: end; visibility: inherit; font-family: Roboto, sans-serif; font-size: 12px; font-weight: 200;"
+               fill="rgb(33, 33, 33)"
+               stroke="none"
+               stroke-width="1px"
+               id="text1705">1.12</text>
+          </g>
+          <line
+             x1="51.5625"
+             y1="0"
+             x2="51.5625"
+             y2="364.993"
+             fill="rgb(0, 0, 0)"
+             stroke="rgb(204, 204, 204)"
+             stroke-width="1px"
+             id="line1709" />
+        </g>
+      </g>
+      <g
+         transform="translate(51, 0)"
+         clip-path="url(#clip_0)"
+         id="g1804">
+        <clipPath
+           id="clip_0">
+          <rect
+             width="976"
+             height="364"
+             id="rect1715" />
+        </clipPath>
+        <g
+           id="g1768">
+          <g
+             id="g1766">
+            <g
+               id="g1738">
+              <line
+                 x1="0"
+                 y1="0"
+                 x2="0"
+                 y2="364.993"
+                 fill="rgb(0, 0, 0)"
+                 stroke="rgb(66, 66, 66)"
+                 stroke-width="1px"
+                 opacity="0.25"
+                 id="line1718" />
+              <line
+                 x1="108.53305555555553"
+                 y1="0"
+                 x2="108.53305555555553"
+                 y2="364.993"
+                 fill="rgb(0, 0, 0)"
+                 stroke="rgb(66, 66, 66)"
+                 stroke-width="1px"
+                 opacity="0.25"
+                 id="line1720" />
+              <line
+                 x1="217.06611111111107"
+                 y1="0"
+                 x2="217.06611111111107"
+                 y2="364.993"
+                 fill="rgb(0, 0, 0)"
+                 stroke="rgb(66, 66, 66)"
+                 stroke-width="1px"
+                 opacity="0.25"
+                 id="line1722" />
+              <line
+                 x1="325.59916666666663"
+                 y1="0"
+                 x2="325.59916666666663"
+                 y2="364.993"
+                 fill="rgb(0, 0, 0)"
+                 stroke="rgb(66, 66, 66)"
+                 stroke-width="1px"
+                 opacity="0.25"
+                 id="line1724" />
+              <line
+                 x1="434.13222222222214"
+                 y1="0"
+                 x2="434.13222222222214"
+                 y2="364.993"
+                 fill="rgb(0, 0, 0)"
+                 stroke="rgb(66, 66, 66)"
+                 stroke-width="1px"
+                 opacity="0.25"
+                 id="line1726" />
+              <line
+                 x1="542.6652777777778"
+                 y1="0"
+                 x2="542.6652777777778"
+                 y2="364.993"
+                 fill="rgb(0, 0, 0)"
+                 stroke="rgb(66, 66, 66)"
+                 stroke-width="1px"
+                 opacity="0.25"
+                 id="line1728" />
+              <line
+                 x1="651.1983333333333"
+                 y1="0"
+                 x2="651.1983333333333"
+                 y2="364.993"
+                 fill="rgb(0, 0, 0)"
+                 stroke="rgb(66, 66, 66)"
+                 stroke-width="1px"
+                 opacity="0.25"
+                 id="line1730" />
+              <line
+                 x1="759.7313888888888"
+                 y1="0"
+                 x2="759.7313888888888"
+                 y2="364.993"
+                 fill="rgb(0, 0, 0)"
+                 stroke="rgb(66, 66, 66)"
+                 stroke-width="1px"
+                 opacity="0.25"
+                 id="line1732" />
+              <line
+                 x1="868.2644444444443"
+                 y1="0"
+                 x2="868.2644444444443"
+                 y2="364.993"
+                 fill="rgb(0, 0, 0)"
+                 stroke="rgb(66, 66, 66)"
+                 stroke-width="1px"
+                 opacity="0.25"
+                 id="line1734" />
+              <line
+                 x1="976.7974999999999"
+                 y1="0"
+                 x2="976.7974999999999"
+                 y2="364.993"
+                 fill="rgb(0, 0, 0)"
+                 stroke="rgb(66, 66, 66)"
+                 stroke-width="1px"
+                 opacity="0.25"
+                 id="line1736" />
+            </g>
+            <g
+               id="g1764">
+              <line
+                 x1="0"
+                 y1="364.993"
+                 x2="976.7974999999999"
+                 y2="364.993"
+                 fill="rgb(0, 0, 0)"
+                 stroke="rgb(66, 66, 66)"
+                 stroke-width="1px"
+                 opacity="0.25"
+                 id="line1740" />
+              <line
+                 x1="0"
+                 y1="334.5769166666666"
+                 x2="976.7974999999999"
+                 y2="334.5769166666666"
+                 fill="rgb(0, 0, 0)"
+                 stroke="rgb(66, 66, 66)"
+                 stroke-width="1px"
+                 opacity="0.25"
+                 id="line1742" />
+              <line
+                 x1="0"
+                 y1="304.1608333333334"
+                 x2="976.7974999999999"
+                 y2="304.1608333333334"
+                 fill="rgb(0, 0, 0)"
+                 stroke="rgb(66, 66, 66)"
+                 stroke-width="1px"
+                 opacity="0.25"
+                 id="line1744" />
+              <line
+                 x1="0"
+                 y1="273.74475"
+                 x2="976.7974999999999"
+                 y2="273.74475"
+                 fill="rgb(0, 0, 0)"
+                 stroke="rgb(66, 66, 66)"
+                 stroke-width="1px"
+                 opacity="0.25"
+                 id="line1746" />
+              <line
+                 x1="0"
+                 y1="243.3286666666667"
+                 x2="976.7974999999999"
+                 y2="243.3286666666667"
+                 fill="rgb(0, 0, 0)"
+                 stroke="rgb(66, 66, 66)"
+                 stroke-width="1px"
+                 opacity="0.25"
+                 id="line1748" />
+              <line
+                 x1="0"
+                 y1="212.91258333333332"
+                 x2="976.7974999999999"
+                 y2="212.91258333333332"
+                 fill="rgb(0, 0, 0)"
+                 stroke="rgb(66, 66, 66)"
+                 stroke-width="1px"
+                 opacity="0.25"
+                 id="line1750" />
+              <line
+                 x1="0"
+                 y1="182.4964999999999"
+                 x2="976.7974999999999"
+                 y2="182.4964999999999"
+                 fill="rgb(0, 0, 0)"
+                 stroke="rgb(66, 66, 66)"
+                 stroke-width="1px"
+                 opacity="0.25"
+                 id="line1752" />
+              <line
+                 x1="0"
+                 y1="152.08041666666654"
+                 x2="976.7974999999999"
+                 y2="152.08041666666654"
+                 fill="rgb(0, 0, 0)"
+                 stroke="rgb(66, 66, 66)"
+                 stroke-width="1px"
+                 opacity="0.25"
+                 id="line1754" />
+              <line
+                 x1="0"
+                 y1="121.66433333333315"
+                 x2="976.7974999999999"
+                 y2="121.66433333333315"
+                 fill="rgb(0, 0, 0)"
+                 stroke="rgb(66, 66, 66)"
+                 stroke-width="1px"
+                 opacity="0.25"
+                 id="line1756" />
+              <line
+                 x1="0"
+                 y1="91.2482499999998"
+                 x2="976.7974999999999"
+                 y2="91.2482499999998"
+                 fill="rgb(0, 0, 0)"
+                 stroke="rgb(66, 66, 66)"
+                 stroke-width="1px"
+                 opacity="0.25"
+                 id="line1758" />
+              <line
+                 x1="0"
+                 y1="60.83216666666641"
+                 x2="976.7974999999999"
+                 y2="60.83216666666641"
+                 fill="rgb(0, 0, 0)"
+                 stroke="rgb(66, 66, 66)"
+                 stroke-width="1px"
+                 opacity="0.25"
+                 id="line1760" />
+              <line
+                 x1="0"
+                 y1="30.416083333333024"
+                 x2="976.7974999999999"
+                 y2="30.416083333333024"
+                 fill="rgb(0, 0, 0)"
+                 stroke="rgb(66, 66, 66)"
+                 stroke-width="1px"
+                 opacity="0.25"
+                 id="line1762" />
+            </g>
+          </g>
+        </g>
+        <g
+           id="g1774">
+          <g
+             id="g1772">
+            <line
+               x1="0"
+               y1="1733.7167500000007"
+               x2="976.7974999999999"
+               y2="1733.7167500000007"
+               fill="rgb(0, 0, 0)"
+               stroke="rgb(153, 153, 153)"
+               stroke-width="1.5px"
+               id="line1770" />
+          </g>
+        </g>
+        <g
+           id="g1780">
+          <g
+             id="g1778">
+            <line
+               x1="-16936293.89796296"
+               y1="0"
+               x2="-16936293.89796296"
+               y2="364.993"
+               fill="rgb(0, 0, 0)"
+               stroke="rgb(153, 153, 153)"
+               stroke-width="1.5px"
+               id="line1776" />
+          </g>
+        </g>
+        <g
+           id="g1802">
+          <g
+             id="g1790">
+            <g
+               id="g1788">
+              <g
+                 id="g1786">
+                <g
+                   id="g1784">
+                  <path
+                     stroke="rgb(255, 112, 67)"
+                     stroke-width="2px"
+                     d="M85.72603985339506,214.84472397052247L99.06643062379113,212.4293782109258L112.32835601476336,217.06743446594425L125.60768689205244,160.00009109541213L138.8545884943158,175.43973703736015L152.08125069158947,173.22966730977404L165.25752541288577,178.3835384852621L178.45418023016975,174.585736132402L191.67567705794752,185.65390039054827L204.88874247520573,181.81876884462554L218.11109349832816,173.58763509130338L231.34750357188784,174.7426419006239L244.56226733047836,187.12006153441757L257.7504706385288,203.06677957440905L270.96974655841046,214.4781833128812L284.22129096360595,213.20806387990157L297.371397159285,225.1872900915867L310.57810133356475,221.80062182327816L323.7538534882973,224.21864667122261L336.90145739408433,232.39061611730602L355.1741831209876,120.33840045488684L373.26607066874993,48.387469208182274L391.3803682826131,39.092347489306796L409.46829638371906,41.98302342525639L427.5070831291152,73.57865481628167L445.5216609735082,92.21581043899613L463.5508907804012,111.17661859806415L481.60565600342073,121.00222886224668L499.61020458953186,145.63222832444436L517.673340926929,175.0962709640934L535.7280157057355,191.82333394112956L553.7167265052211,195.01876759625387L571.7813802955246,212.76698167557223L589.8400044716306,228.26447229336378L607.8994627443673,244.39310857766648L625.9079808264917,258.64836216720414L643.9443758249229,271.6167116878785L661.8962758297324,280.1512154090742L679.9032764589505,289.973124455273L697.9229794754115,293.28058254450406L716.009540863966,298.3560473116328L734.075491021322,310.23266376973265L752.3903938995369,314.1677869995457L770.6731287860082,321.1566074383777L789.081349993287,324.1396898382856L807.3503273100307,329.5575219735597L825.777059432896,333.4177316295933L844.1490125107766,333.66754110813895L862.4700354474021,335.587508739951L880.6754304824331,335.5150660081553"
+                     style="fill: none;"
+                     fill="none"
+                     id="path1782" />
+                </g>
+              </g>
+            </g>
+          </g>
+          <g
+             opacity="0.2"
+             id="g1800">
+            <g
+               id="g1798">
+              <g
+                 id="g1796">
+                <g
+                   id="g1794">
+                  <path
+                     stroke="rgb(255, 112, 67)"
+                     stroke-width="2px"
+                     d="M85.72603985339506,214.84472397052247L99.06643062379113,210.98017075516776L112.32835601476336,221.5199684707621L125.60768689205244,92.88889529166609L138.8545884943158,195.5977387791673L152.08125069158947,170.17234525142106L165.25752541288577,185.75365672814837L178.45418023016975,169.04850384302927L191.67567705794752,201.9772927910884L204.88874247520573,176.12404546050226L218.11109349832816,161.31559023865057L231.34750357188784,176.46886661855373L244.56226733047836,205.64577656247215L257.7504706385288,226.95561535366375L270.96974655841046,231.58187524386244L284.22129096360595,211.3037805170615L297.371397159285,243.15106020205218L310.57810133356475,216.72147929552193L323.7538534882973,227.8453155813912L336.90145739408433,244.64782333605484L355.1741831209876,-47.73377782893197L373.26607066874993,-59.53656008583324L391.3803682826131,25.149848426957778L409.46829638371906,46.319003086368106L427.5070831291152,120.97187733459464L445.5216609735082,120.17146439411232L463.5508907804012,139.61778232115498L481.60565600342073,135.74062917389466L499.61020458953186,182.57720483003055L517.673340926929,219.29231863923866L535.7280157057355,216.91392285980777L553.7167265052211,199.8119174431562L571.7813802955246,239.38930067576962L589.8400044716306,251.51070710999764L607.8994627443673,268.5860623109639L625.9079808264917,280.0312421839237L643.9443758249229,291.06923576824863L661.8962758297324,292.9529709116419L679.9032764589505,304.7059879698654L697.9229794754115,298.2417696672976L716.009540863966,305.96924445214864L734.075491021322,328.0475884425938L752.3903938995369,320.0704718414247L770.6731287860082,331.6398380935987L789.081349993287,328.61431343737246L807.3503273100307,337.6842701756259L825.777059432896,339.2080461132824L844.1490125107766,334.04225532594324L862.4700354474021,338.46746018760405L880.6754304824331,335.406401910464"
+                     style="fill: none;"
+                     fill="none"
+                     id="path1792" />
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g
+         transform="translate(51, 364)"
+         clip-path="url(#clip_1)"
+         id="g1901">
+        <clipPath
+           id="clip_1">
+          <rect
+             width="976"
+             height="35"
+             id="rect1806" />
+        </clipPath>
+        <g
+           id="g1899">
+          <g
+             visibility="inherit"
+             id="g1875">
+            <g
+               id="g1849">
+              <g
+                 transform="translate(0,0)"
+                 style="visibility: inherit;"
+                 id="g1811">
+                <text
+                   transform="translate(3,14)"
+                   style="text-anchor: start; font-family: Roboto, sans-serif; font-size: 12px; font-weight: 200;"
+                   fill="rgb(33, 33, 33)"
+                   stroke="none"
+                   stroke-width="1px"
+                   id="text1809">06 AM</text>
+              </g>
+              <g
+                 transform="translate(108.53305555555553,0)"
+                 style="visibility: inherit;"
+                 id="g1815">
+                <text
+                   transform="translate(3,14)"
+                   style="text-anchor: start; font-family: Roboto, sans-serif; font-size: 12px; font-weight: 200;"
+                   fill="rgb(33, 33, 33)"
+                   stroke="none"
+                   stroke-width="1px"
+                   id="text1813">09 AM</text>
+              </g>
+              <g
+                 transform="translate(217.06611111111107,0)"
+                 style="visibility: inherit;"
+                 id="g1819">
+                <text
+                   transform="translate(3,14)"
+                   style="text-anchor: start; font-family: Roboto, sans-serif; font-size: 12px; font-weight: 200;"
+                   fill="rgb(33, 33, 33)"
+                   stroke="none"
+                   stroke-width="1px"
+                   id="text1817">12 PM</text>
+              </g>
+              <g
+                 transform="translate(325.59916666666663,0)"
+                 style="visibility: inherit;"
+                 id="g1823">
+                <text
+                   transform="translate(3,14)"
+                   style="text-anchor: start; font-family: Roboto, sans-serif; font-size: 12px; font-weight: 200;"
+                   fill="rgb(33, 33, 33)"
+                   stroke="none"
+                   stroke-width="1px"
+                   id="text1821">03 PM</text>
+              </g>
+              <g
+                 transform="translate(434.13222222222214,0)"
+                 style="visibility: inherit;"
+                 id="g1827">
+                <text
+                   transform="translate(3,14)"
+                   style="text-anchor: start; font-family: Roboto, sans-serif; font-size: 12px; font-weight: 200;"
+                   fill="rgb(33, 33, 33)"
+                   stroke="none"
+                   stroke-width="1px"
+                   id="text1825">06 PM</text>
+              </g>
+              <g
+                 transform="translate(542.6652777777778,0)"
+                 style="visibility: inherit;"
+                 id="g1831">
+                <text
+                   transform="translate(3,14)"
+                   style="text-anchor: start; font-family: Roboto, sans-serif; font-size: 12px; font-weight: 200;"
+                   fill="rgb(33, 33, 33)"
+                   stroke="none"
+                   stroke-width="1px"
+                   id="text1829">09 PM</text>
+              </g>
+              <g
+                 transform="translate(651.1983333333333,0)"
+                 style="visibility: inherit;"
+                 id="g1835">
+                <text
+                   transform="translate(3,14)"
+                   style="text-anchor: start; font-family: Roboto, sans-serif; font-size: 12px; font-weight: 200;"
+                   fill="rgb(33, 33, 33)"
+                   stroke="none"
+                   stroke-width="1px"
+                   id="text1833">12 AM</text>
+              </g>
+              <g
+                 transform="translate(759.7313888888888,0)"
+                 style="visibility: inherit;"
+                 id="g1839">
+                <text
+                   transform="translate(3,14)"
+                   style="text-anchor: start; font-family: Roboto, sans-serif; font-size: 12px; font-weight: 200;"
+                   fill="rgb(33, 33, 33)"
+                   stroke="none"
+                   stroke-width="1px"
+                   id="text1837">03 AM</text>
+              </g>
+              <g
+                 transform="translate(868.2644444444443,0)"
+                 style="visibility: inherit;"
+                 id="g1843">
+                <text
+                   transform="translate(3,14)"
+                   style="text-anchor: start; font-family: Roboto, sans-serif; font-size: 12px; font-weight: 200;"
+                   fill="rgb(33, 33, 33)"
+                   stroke="none"
+                   stroke-width="1px"
+                   id="text1841">06 AM</text>
+              </g>
+              <g
+                 transform="translate(976.7974999999999,0)"
+                 style="visibility: hidden;"
+                 id="g1847">
+                <text
+                   transform="translate(3,14)"
+                   style="text-anchor: start; font-family: Roboto, sans-serif; font-size: 12px; font-weight: 200;"
+                   fill="rgb(33, 33, 33)"
+                   stroke="none"
+                   stroke-width="1px"
+                   id="text1845">09 AM</text>
+              </g>
+            </g>
+            <g
+               id="g1871">
+              <line
+                 x1="0"
+                 y1="0"
+                 x2="0"
+                 y2="17"
+                 fill="rgb(0, 0, 0)"
+                 stroke="rgb(204, 204, 204)"
+                 stroke-width="1px"
+                 id="line1851" />
+              <line
+                 x1="108.53305555555553"
+                 y1="0"
+                 x2="108.53305555555553"
+                 y2="17"
+                 fill="rgb(0, 0, 0)"
+                 stroke="rgb(204, 204, 204)"
+                 stroke-width="1px"
+                 id="line1853" />
+              <line
+                 x1="217.06611111111107"
+                 y1="0"
+                 x2="217.06611111111107"
+                 y2="17"
+                 fill="rgb(0, 0, 0)"
+                 stroke="rgb(204, 204, 204)"
+                 stroke-width="1px"
+                 id="line1855" />
+              <line
+                 x1="325.59916666666663"
+                 y1="0"
+                 x2="325.59916666666663"
+                 y2="17"
+                 fill="rgb(0, 0, 0)"
+                 stroke="rgb(204, 204, 204)"
+                 stroke-width="1px"
+                 id="line1857" />
+              <line
+                 x1="434.13222222222214"
+                 y1="0"
+                 x2="434.13222222222214"
+                 y2="17"
+                 fill="rgb(0, 0, 0)"
+                 stroke="rgb(204, 204, 204)"
+                 stroke-width="1px"
+                 id="line1859" />
+              <line
+                 x1="542.6652777777778"
+                 y1="0"
+                 x2="542.6652777777778"
+                 y2="17"
+                 fill="rgb(0, 0, 0)"
+                 stroke="rgb(204, 204, 204)"
+                 stroke-width="1px"
+                 id="line1861" />
+              <line
+                 x1="651.1983333333333"
+                 y1="0"
+                 x2="651.1983333333333"
+                 y2="17"
+                 fill="rgb(0, 0, 0)"
+                 stroke="rgb(204, 204, 204)"
+                 stroke-width="1px"
+                 id="line1863" />
+              <line
+                 x1="759.7313888888888"
+                 y1="0"
+                 x2="759.7313888888888"
+                 y2="17"
+                 fill="rgb(0, 0, 0)"
+                 stroke="rgb(204, 204, 204)"
+                 stroke-width="1px"
+                 id="line1865" />
+              <line
+                 x1="868.2644444444443"
+                 y1="0"
+                 x2="868.2644444444443"
+                 y2="17"
+                 fill="rgb(0, 0, 0)"
+                 stroke="rgb(204, 204, 204)"
+                 stroke-width="1px"
+                 id="line1867" />
+              <line
+                 x1="976.7974999999999"
+                 y1="0"
+                 x2="976.7974999999999"
+                 y2="17"
+                 fill="rgb(0, 0, 0)"
+                 stroke="rgb(204, 204, 204)"
+                 stroke-width="1px"
+                 id="line1869" />
+            </g>
+            <line
+               x1="0"
+               y1="0"
+               x2="976.7974999999999"
+               y2="0"
+               style="visibility: inherit;"
+               fill="rgb(0, 0, 0)"
+               stroke="rgb(204, 204, 204)"
+               stroke-width="1px"
+               id="line1873" />
+          </g>
+          <g
+             visibility="inherit"
+             id="g1897">
+            <g
+               id="g1885">
+              <g
+                 transform="translate(325.59916666666663,0)"
+                 style="visibility: inherit;"
+                 id="g1879">
+                <text
+                   transform="translate(0,31)"
+                   style="text-anchor: middle; font-family: Roboto, sans-serif; font-size: 12px; font-weight: 200;"
+                   fill="rgb(33, 33, 33)"
+                   stroke="none"
+                   stroke-width="1px"
+                   id="text1877">May 29, 2023</text>
+              </g>
+              <g
+                 transform="translate(813.9979166666666,0)"
+                 style="visibility: inherit;"
+                 id="g1883">
+                <text
+                   transform="translate(0,31)"
+                   style="text-anchor: middle; font-family: Roboto, sans-serif; font-size: 12px; font-weight: 200;"
+                   fill="rgb(33, 33, 33)"
+                   stroke="none"
+                   stroke-width="1px"
+                   id="text1881">May 30, 2023</text>
+              </g>
+            </g>
+            <g
+               id="g1893">
+              <line
+                 x1="0"
+                 y1="17"
+                 x2="0"
+                 y2="34"
+                 fill="rgb(0, 0, 0)"
+                 stroke="rgb(204, 204, 204)"
+                 stroke-width="1px"
+                 id="line1887" />
+              <line
+                 x1="651.1983333333333"
+                 y1="17"
+                 x2="651.1983333333333"
+                 y2="34"
+                 fill="rgb(0, 0, 0)"
+                 stroke="rgb(204, 204, 204)"
+                 stroke-width="1px"
+                 id="line1889" />
+              <line
+                 x1="976.7974999999999"
+                 y1="17"
+                 x2="976.7974999999999"
+                 y2="34"
+                 fill="rgb(0, 0, 0)"
+                 stroke="rgb(204, 204, 204)"
+                 stroke-width="1px"
+                 id="line1891" />
+            </g>
+            <line
+               x1="0"
+               y1="17"
+               x2="976.7974999999999"
+               y2="17"
+               style="visibility: inherit;"
+               fill="rgb(0, 0, 0)"
+               stroke="rgb(204, 204, 204)"
+               stroke-width="1px"
+               id="line1895" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
